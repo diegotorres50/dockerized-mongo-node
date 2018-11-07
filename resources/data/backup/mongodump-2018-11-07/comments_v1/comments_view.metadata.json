@@ -1,0 +1,1 @@
+{"options":{"viewOn":"comments","pipeline":[{"$lookup":{"from":"users","localField":"uid","foreignField":"_id","as":"comments_by_user"}}]},"indexes":[]}

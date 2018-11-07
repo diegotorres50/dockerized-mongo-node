@@ -1,0 +1,7 @@
+{
+  "mongods": {
+    "url": "mongodb://mongo_service:27017/comments_v1",
+    "name": "mongods",
+    "connector": "mongodb"
+  }
+}
